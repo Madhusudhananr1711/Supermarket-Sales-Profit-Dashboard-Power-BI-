@@ -1,0 +1,44 @@
+File Name,Column Name,Column Description
+Ideal_Data,MONTH,"Month ID (M1, M2, M3)"
+,STORECODE,"STORE CODE (P1, P2, …, P10)"
+,QTY,Sales Unit
+,VALUE,Sales Value
+,GRP,Category
+,SGRP,Subcategory
+,SSGRP,Sub Sub Category
+,CMP,Company/Manufacturer
+,MBRD,Mother Brand
+,BRD,Brand
+,,
+,,
+Working_Data,MONTH,"Month ID (M1, M2, M3)"
+,STORECODE,"STORE CODE (N1, N2, …, N10)"
+,DAY,Day of the month
+,BILL_ID,"Bill ID (T1,T2,…)"
+,BILL_AMT,Bill Amount 
+,QTY,Sales Unit
+,VALUE,Sales Value
+,PRICE,Selling Price Per Unit
+,GRP,Category
+,SGRP,Subcategory
+,SSGRP,Sub Sub Category
+,CMP,Company/Manufacturer
+,MBRD,Mother Brand
+,BRD,Brand
+,UNIT_PRICE,
+,PROFIT_AMOUNT,
+,DISCOUNT,
+,DISCOUNT_AMOUNT,
+,NET_SALES,
+,PRICE,
+,AVG_DAILY_SALES,
+,PROFIT_MARGIN,
+,BILL_AMT,
+,BILL_ID,
+,BRD,
+,CMP,
+,,
+validation_data,GRP,
+,ID,
+,MONTH,
+,STORECODE,
