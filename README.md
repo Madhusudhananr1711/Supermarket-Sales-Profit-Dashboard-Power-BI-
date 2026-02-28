@@ -6,7 +6,7 @@ The objective is to transform raw transactional data into actionable business in
 
 The dashboard focuses on:
 
-> Sales performance
+1. Sales performance
 > Profitability analysis
 > Store comparison
 > Product group insights
