@@ -14,11 +14,12 @@ The dashboard focuses on:
 
 # 🎯 Business Objectives
 
-1. Identify top and bottom performing product groups
-2. Analyze monthly sales and profit trends
-3. Compare store-level performance
-4. Understand customer purchase behavior by price & quantity
-5. Evaluate the impact of discounts on revenue and profit
+1. Identify top and bottom performing product groups,
+   
+3. Analyze monthly sales and profit trends
+4. Compare store-level performance
+5. Understand customer purchase behavior by price & quantity
+6. Evaluate the impact of discounts on revenue and profit
 
 # 🧰 Tools & Technologies Used
 
@@ -151,6 +152,7 @@ DIVIDE([Total Profit], [Total Sales], 0)
   * Store
   * Product Group
   * Price range
+    
 4.Explore interactive visuals
 
 # 📬 Contact
