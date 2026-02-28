@@ -14,94 +14,94 @@ The dashboard focuses on:
 
 # 🎯 Business Objectives
 
-> Identify top and bottom performing product groups
-> Analyze monthly sales and profit trends
-> Compare store-level performance
-> Understand customer purchase behavior by price & quantity
-> Evaluate the impact of discounts on revenue and profit
+1. Identify top and bottom performing product groups
+2. Analyze monthly sales and profit trends
+3. Compare store-level performance
+4. Understand customer purchase behavior by price & quantity
+5. Evaluate the impact of discounts on revenue and profit
 
 # 🧰 Tools & Technologies Used
 
-> Microsoft Excel – Initial data handling
-> Power BI Desktop
-> Power Query (Data Cleaning & Transformation)
-> DAX (Data Analysis Expressions)
-> Data Modeling
-> Interactive Visualizations
+1. Microsoft Excel – Initial data handling
+2. Power BI Desktop
+3. Power Query (Data Cleaning & Transformation)
+4. DAX (Data Analysis Expressions)
+5. Data Modeling
+6. Interactive Visualizations
 
 # 📊 Dashboard Sections
 
 1️⃣ Super Market Dashboard – Sales & Profit Insights
 
-> Profit by price and quantity
-> Profit trends by value
-> Sales performance across product groups
-> Discount impact analysis
+1. Profit by price and quantity
+2. Profit trends by value
+3. Sales performance across product groups
+4. Discount impact analysis
 
 2️⃣ Retail Pulse – Store & Sales Performance
 
-> Store-wise monthly sales comparison
-> Day-wise sales trends
-> Product group performance by store
-> KPI tracking
+1. Store-wise monthly sales comparison
+2. Day-wise sales trends
+3. Product group performance by store
+4. KPI tracking
 
 3️⃣ Sales & Profit Intelligence Hub
 
-> Net sales & profit by category
-> Sales by month (M1, M2, M3)
-> Quantity distribution analysis
-> Value vs discount insights
+1. Net sales & profit by category
+2. Sales by month (M1, M2, M3)
+3. Quantity distribution analysis
+4. Value vs discount insights
 
 # 🔍 Key Features
 
 ✔ Sales & Profit Analysis
 
-> Track performance by:
-> Product group (SGRP)
-> Store code
-> Month (M1, M2, M3)
-> Unit price
+1. Track performance by:
+2. Product group (SGRP)
+3. Store code
+4. Month (M1, M2, M3)
+5. Unit price
 
 ✔ Top & Bottom Performers
 
 Quickly identify: 
 
-> High-profit items
-> Low-performing categories
-> Stores with declining sales
+1. High-profit items
+2. Low-performing categories
+3. Stores with declining sales
 
 ✔ Customer Purchase Trends
 
 Analyze:
 
-> Buying behavior across price ranges
-> Quantity-based purchasing patterns
-> Value contribution distribution
+1. Buying behavior across price ranges
+2. Quantity-based purchasing patterns
+3. Value contribution distribution
 
 ✔ Discount & Value Impact
 
 Understand:
 
-> How discounts affect total sales value
-> Profit variation due to promotional strategies
+1. How discounts affect total sales value
+2. Profit variation due to promotional strategies
 
 ✔ Store Performance Insights
 
 Compare:
 
-> Store-wise total sales
-> Monthly store trends
-> Contribution to overall revenue
+1. Store-wise total sales
+2. Monthly store trends
+3. Contribution to overall revenue
 
 # 📈 Key Metrics Used
 
-> Total Sales Value
-> Net Sales
-> Profit Amount
-> Quantity Sold
-> Discount Amount
-> Store Code Count
-> Product Group Count
+1. Total Sales Value
+2. Net Sales
+3. Profit Amount
+4. Quantity Sold
+5. Discount Amount
+6. Store Code Count
+7. Product Group Count
 
 # 🧮 Sample DAX Measures
 
@@ -130,11 +130,11 @@ DIVIDE([Total Profit], [Total Sales], 0)
 
 # 🚀 What I Learned
 
-> Advanced data transformation using Power Query
-> Writing optimized DAX measures
-> Building a structured data model
-> Designing clean and interactive dashboards
-> Converting data into strategic business recommendations
+1. Advanced data transformation using Power Query
+2. Writing optimized DAX measures
+3. Building a structured data model
+4. Designing clean and interactive dashboards
+5. Converting data into strategic business recommendations
 
 # 📷 Dashboard Preview
 
@@ -147,10 +147,10 @@ DIVIDE([Total Profit], [Total Sales], 0)
 1.Download the .pbix file
 2.Open in Power BI Desktop
 3.Use slicers to filter:
-  Month
-  Store
-  Product Group
-  Price range
+  * Month
+  * Store
+  * Product Group
+  * Price range
 4.Explore interactive visuals
 
 # 📬 Contact
